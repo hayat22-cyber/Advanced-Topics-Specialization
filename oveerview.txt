@@ -1,0 +1,32 @@
+Customer Churn Prediction Project
+
+This project predicts whether a customer will churn based on demographic
+and service usage data.
+
+Model Used:
+Random Forest Classifier
+
+Dataset Features:
+Tenure
+MonthlyCharges
+Contract
+PaymentMethod
+SeniorCitizen
+PaperlessBilling
+
+Target Variable:
+Churn
+
+Model Accuracy:
+91%
+
+Libraries Used:
+pandas
+numpy
+scikit-learn
+
+This project includes:
+Data preprocessing
+Model training
+Model saving & loading
+Prediction on new data
