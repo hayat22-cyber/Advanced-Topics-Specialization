@@ -1,3 +1,0 @@
-Supermarket Sales Overview
-
-This project analyzes supermarket sales data to understand overall sales performance. The dataset includes information about product lines and total sales. Using Python and Pandas, sales were grouped by product line to identify which categories generated the highest revenue. A bar chart visualization was created to clearly show sales differences across product lines. This analysis helps in understanding customer purchasing trends and business performance.
